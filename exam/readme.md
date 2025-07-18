@@ -32,6 +32,14 @@ This is a simple product management web app using **HTML**, **CSS**, and **JavaS
 
 
 
+https://github.com/user-attachments/assets/75a575fa-24f0-43bd-b088-bc47e2d1bf5c
+
+
+
+
+
+
+
 ## 🧑‍💻 How It Works
 
 ### 1. Add Product
