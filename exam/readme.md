@@ -26,11 +26,7 @@ This is a simple product management web app using **HTML**, **CSS**, and **JavaS
 
 # video
 
-https://drive.google.com/file/d/1amvbPmzkH7DCmXQlscpXWm_Z3CTaE05A/view?usp=sharing
-
-
-
-
+https://drive.google.com/file/d/152w2uVoZa9PLlWU5pbrkRdZnITUG_3o5/view?usp=sharing
 
 
 
